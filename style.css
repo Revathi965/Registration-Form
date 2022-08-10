@@ -3,7 +3,7 @@
 	box-shadow: 4px 4px 20px black;
     border: 3px solid rgb(255, 255, 255);
     /* border-radius: 0px ; */
-	width: 60%;
+	width: 75%;
 	background-image: linear-gradient(rgb(0, 225, 255) , rgb(151, 203, 236) ,rgb(236, 211, 121), rgb(237, 155, 84) );
 	/* position: absolute; */
 }
@@ -24,7 +24,7 @@
 	padding-top: 30px;
 	font-weight: 400;
 	margin-bottom: 10px;
-	font-size: 50px;
+	font-size: 42px;
 	color: rgb(255, 255, 255);
 	position: relative;
     font-family: 'Times New Roman', Times, serif;
