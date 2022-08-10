@@ -1,0 +1,48 @@
+.container{
+    margin: 20px auto;
+	box-shadow: 4px 4px 20px black;
+    border: 3px solid rgb(255, 255, 255);
+    /* border-radius: 0px ; */
+	width: 60%;
+	background-image: linear-gradient(rgb(0, 225, 255) , rgb(151, 203, 236) ,rgb(236, 211, 121), rgb(237, 155, 84) );
+	/* position: absolute; */
+}
+.army{
+	text-align: center;
+    margin-top: 10px;
+	padding: 25px;
+    /* display: none; */
+   
+}
+.registration-form {
+	width: 90%;
+    margin: auto;
+	position: relative;
+}
+.title {
+	text-align: center;
+	padding-top: 30px;
+	font-weight: 400;
+	margin-bottom: 10px;
+	font-size: 50px;
+	color: rgb(255, 255, 255);
+	position: relative;
+    font-family: 'Times New Roman', Times, serif;
+    -webkit-animation: fill 0.3s infinite alternate;
+}
+@-webkit-keyframes fill {
+    from { -webkit-text-fill-color: rgb(4, 173, 32);}
+    to { -webkit-text-fill-color: rgb(211, 7, 136);}
+}
+.submit-btn {
+	text-align: center;
+	margin-bottom: 30px;
+	margin-top: 30px;
+	/* color: blueviolet; */
+}
+.btn{
+	background-color: rgb(55, 127, 220);
+}
+.valid-feedback{
+	color: rgb(23, 107, 4);
+}
